@@ -32,6 +32,7 @@ Microsoft Office, Adobe Photoshop, Microsoft Visual Studio, Eclipse, Sony Vegas,
 - CS113 (MiraCosta)
 - CS150 (MiraCosta)
 - CS220 (MiraCosta)
+- CSIT165 (MiraCosta)
 
 
 ## Work Experience
