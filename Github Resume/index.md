@@ -31,6 +31,7 @@ Microsoft Office, Adobe Photoshop, Microsoft Visual Studio, Eclipse, Sony Vegas,
 - CS112 (MiraCosta)
 - CS113 (MiraCosta)
 - CS150 (MiraCosta)
+- CS151 (MiraCosta)
 - CS220 (MiraCosta)
 - CSIT165 (MiraCosta)
 
