@@ -13,7 +13,7 @@ A.S. Computer Science - Summer 2015 - Fall 2018
 - **La Costa Canyon Highschool**
 Highschool Deploma, General Education - Graduated Spring 2015
 
-## Course Objective: 
+## Objective: 
 - To be able to qualify for a position related to my field of specialization, which will serve not only as a career growth but as a challenge to my profession.
 
 ## Technical Skills
@@ -27,18 +27,19 @@ Microsoft Office, Adobe Photoshop, Microsoft Visual Studio, Eclipse, Sony Vegas,
 ## Courses Taken
 - AP Computer Science (Highschool)
 - Webdesign (Highschool)
-- CS111 (MiraCosta)
-- CS112 (MiraCosta)
-- CS113 (MiraCosta)
-- CS150 (MiraCosta)
-- CS151 (MiraCosta)
-- CS220 (MiraCosta)
-- CSIT165 (MiraCosta)
+- CS111 (MiraCosta) Java I
+- CS112 (MiraCosta) Java II
+- CS113 (MiraCosta) Data Structures and Algorithms
+- CS138 (MiraCosta) Python
+- CS150 (MiraCosta) C++ I
+- CS151 (MiraCosta) C++ II
+- CS220 (MiraCosta) Computer Architecture and Assembly Language
+- CSIT165 (MiraCosta) Web Fundamentals
 
 
 ## Work Experience
 ### Computer Repair Center (Oct. 2016 - Present)
--Independent Contractor | 20 hours per week | Encinitas/Oceanside, CA
+- Independent Contractor | 20 hours per week | Encinitas/Oceanside, CA
 - Computer/Electronic hardware repair/replacement.
 - Software repair/instalation.
 - Virus and Malware Removal.
@@ -63,12 +64,6 @@ Microsoft Office, Adobe Photoshop, Microsoft Visual Studio, Eclipse, Sony Vegas,
 - Data Recovery/Transfer.
 - Complete system builds and system maintenance. 
 - Accross all different platforms: mobile, desktop, laptop, tablet, server racks, etc.
-
-### Dairy Queen (Jan. 2016 - Oct. 2016)
--Manager | 25 hours per week | Encinitas, CA
-- Maintained inventory and balanced the books for the franchise.
-- Stocked goods, made bank runs, and answered phone calls.
-- Assisted customers and provided excellent customer service.
 
 ## Related to Computer Science
 - While attending MiraCosta, worked as a Computer Science tutor at the S.T.E.M. Center.
